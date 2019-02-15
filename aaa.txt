@@ -1,5 +1,7 @@
 aaaaaaaaaa
 zzzz
 edit aaa.txt insert some string
+edit aaa.txt insert string "os" in hot_fix2
+z
 ccccccc
 dddddd
