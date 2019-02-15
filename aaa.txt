@@ -1,4 +1,5 @@
 aaaaaaaaaa
-zzzzz
+zzzz
+edit aaa.txt insert some string
 ccccccc
 dddddd
