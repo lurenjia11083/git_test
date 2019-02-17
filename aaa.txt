@@ -5,3 +5,4 @@ edit aaa.txt insert string "os" in hot_fix2
 z
 ccccccc
 dddddd
+is new day
